@@ -5,6 +5,8 @@
 
 # About Artworks Data
 
+[`data.csv`](https://github.com/kennyfahad/DataCleansing/raw/main/DataCleansing_WithBasicPythonTechniques/data.csv)
+
 ## Museum of Modern Art Collection
 The Museum of Modern Art (MoMA) acquired its first artworks in 1929, the year it was established. Today, the Museum’s evolving collection contains almost 200,000 works from around the world spanning the last 150 years. The collection includes an ever-expanding range of visual expression, including painting, sculpture, printmaking, drawing, photography, architecture, design, film, and media and performance art.
 
