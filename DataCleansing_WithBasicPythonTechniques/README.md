@@ -14,3 +14,10 @@ The follwoing work is down on the artiest dataset which contains 16,730 records,
 
 https://www.kaggle.com/datasets/momanyc/museum-collection?resource=download
 
+# Data Cleansing Problems Resolved 
+* Unwanted special characters removed
+* Standardized datasets to correct datatypes for e.g. `text > int`
+* Missing values in 'Nationalities' and 'Gender' identified and replaced
+* Dates standardized to address conventional use
+
+### Cleaned dataset is available as csv (`artists_updated.csv`)
