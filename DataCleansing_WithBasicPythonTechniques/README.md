@@ -12,7 +12,7 @@ MoMA is committed to helping everyone understand, enjoy, and use our collection.
 
 The follwoing work is down on the artiest dataset which contains 16,730 records, representing all the artists who have work in MoMA's collection and have been cataloged in MOMA's database. The dataset includes information about 'Title', 'Artist', 'Nationality', 'BeginDate', 'EndDate', 'Gender', 'Date' and 'Department'. It has been already enhanced from the dataset shared by MOMA which included basic metadata for each artist, including name, nationality, gender, birth year, and death year.
 
-[Click here for more information on this dataset available on Kaggle] (https://www.kaggle.com/datasets/momanyc/museum-collection?resource=download)
+[Click here for more information on this dataset available on Kaggle](https://www.kaggle.com/datasets/momanyc/museum-collection?resource=download)
 
 # Data Cleansing Problems Resolved 
 * Unwanted special characters removed
@@ -20,4 +20,4 @@ The follwoing work is down on the artiest dataset which contains 16,730 records,
 * Missing values in 'Nationalities' and 'Gender' identified and replaced
 * Dates standardized to address conventional use
 
-### Cleaned dataset is available as csv (`artists_updated.csv`)
+### Cleaned dataset is available as csv [`artists_updated.csv`](https://github.com/kennyfahad/DataCleansing/raw/main/DataCleansing_WithBasicPythonTechniques/artists_updated.csv)
