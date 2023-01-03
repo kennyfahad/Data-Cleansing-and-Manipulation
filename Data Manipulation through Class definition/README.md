@@ -1,7 +1,9 @@
 # About Dataset
 The sample 2013 dataset consists of 481 records of NBA players and contains the following details:
 
-'player', 'pos', 'age', 'team', 'g', 'gs', 'mp', 'fg', 'fga', 'fg.', 'x3p', 'x3pa', 'x3p.', 'x2p', 'x2pa', 'x2p.', 'efg.', 'ft', 'fta', 'ft.', 'orb', 'drb', 'trb', 'ast', 'stl', 'blk', 'tov', 'pf', 'pts', 'season', 'season_end'
+'player names', 'playing position', 'age', 'team' etc.
+[Get Data Here!](https://github.com/kennyfahad/Data-Cleansing-and-Manipulation/raw/main/Data%20Manipulation%20through%20Class%20definition/nba.csv)
+
 
 # Problem Statement
 * To define different classes for this particular dataset which will be used for various analytics and data manipulation 
