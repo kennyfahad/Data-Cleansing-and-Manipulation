@@ -4,8 +4,15 @@ The repository contains my data cleansing and manipulation projects using variou
 ## Libraries that I have used are as follows:
 * `csv`
 * `pandas`
+![Pandas](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/pandas.png "Pandas")
 * `numpy`
+![NumPy](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/numpy.png "NumPy")
+
 * 'datetime`
+
+* `Beautiful Soup`
+![Beautiful Soup](https://github.com/kennyfahad/Data-Visualization/blob/main/Databs4.jpeg "Beautiful Soup")
+
 
 # [Data Cleansing using basic Python Operations](https://github.com/kennyfahad/Data-Cleansing-and-Manipulation/blob/main/Data%20Cleansing%20through%20basic%20Python%20Techniques.ipynb)
 
